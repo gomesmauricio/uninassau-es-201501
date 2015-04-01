@@ -1,0 +1,506 @@
+Aluno: José Mauricio Gomes de Oliveira
+Sistemas de Informação
+Noite
+
+
+
+Exercício de Fixação Engenharia de Software 
+Respostas
+1.
+Engenharia de Software pode ser vista como uma abordagem de desenvolvimento de software elaborada com disciplina e métodos bem definidos. 
+
+Produtos de software genéricos, ou produtos de caixinha como muitas vezes são conhecidos, são produzidos por uma organização de desenvolvimento e distribuídos no mercado a quem quiser comprá-los. Já os sistemas sob encomenda(Customizados) são vendidos a um cliente específico e é desenvolvido sob a ótica da necessidade de negócio desse cliente.
+
+Os principais desafios da engenharia de Software são: Tempo e custo
+
+O desenvolvimento de software é um engenharia pois trata as estimativas de prazo e de custo que, frequentemente são imprecisas. O software é um item de alto custo e em progressivo aumento; e segundo, que os softwares têm um importante papel no bem-estar da sociedade; dessa forma, a ES assume papel crítico para garantir que tarefas, dados, pessoas e tecnologia estejam apropriadamente alinhadas para produzir um sistema efetivo e eficiente.
+
+Algumas questões que afetam o desenvolvimento de software são, pouco conhecimento técnico da equipe, curto prazo para a elaboração do software,pouco dinheiro entre outros problemas.
+
+2.
+Especificação
+Definição e conhecimento do problema a ser resolvido.
+
+Projeto e Implementação
+É definido o padrão de projeto e é feita a codificação
+
+Validação
+O projeto é validado pelo cliente, onde o cliente atesta que o software atende as especificações que foram definidas no projeto.
+
+Evolução
+Ao passar do tempo as legislações podem mudar, ou o cliente decide adicionar mais funções ao software
+
+Processos de Software
+Exemplo de atividade – Mudança no código da função de Calculo de impostos
+Exemplo de Artefato –: é o produto ou subproduto de um processo ou atividade. Ex. função de cálculo do imposto modificada
+Exemplo de papel - define o conjunto de atores ou de responsabilidades, deveres e conhecimento necessário para se executar uma atividade ex: papel do engenheiro de Software
+
+Modelo de processo de software representa formalmente os itens envolvidos neste processo onde cada elemento pode ser executado por pessoas ou máquinas. As descrições de ciclo de vida representam, em sua maioria, um modelo abstrato de desenvolvimento de software, não fornecendo informações sobre como integrar os diversos passos do processo que são realizados pelas pessoas envolvidas. Um dos objetivos da modelagem de processo é detalhar o suficiente estas descrições para orientar a execução do processo. Podem-se modelar diferentes elementos de um processo como, por exemplo: atividades, produtos (artefatos), atores e papéis.
+
+Exemplos de Modelos de processo de Software:Incremenal e Cascata
+
+
+Modelo em Cascata
+
+- modelo mais antigo e o mais amplamente usado da engenharia de software
+- modelado em função do ciclo da engenharia convencional
+- requer uma abordagem sistemática, sequencial ao desenvolvimento de software
+- o resultado de uma fase se constitui na entrada da outra
+
+Benefícios 
+Envolve a elicitação de requisitos do sistema, com uma pequena quantidade de projeto e análise de alto nível; 
+Preocupa-se com aquilo que conhecemos como engenharia progressiva de produto desoftware;  
+Iniciar com um modelo conceitual de alto nível para um sistema e prosseguir com o projeto, implementação e teste do modelo físico do sistema.
+
+Problemas
+A principal desvantagem do modelo em cascata é a dificuldade de acomodar a mudança depois de o processo está em curso. A princípio, a fase deve estar completa antes de passar para a próxima fase.
+
+Modelo incremental
+Benefícios
+
+O custo de acomodar mudanças nos requisitos dos clientes é reduzido.
+
+A quantidade de análise e documentação que tem de ser refeitos é muito menor do que no modelo em cascata.
+
+É mais fácil obter feedback dos clientes sobre o trabalho de desenvolvimento.
+Os clientes podem comentar sobre demonstrações do software e ver o quanto tem sido implementado.
+
+Entrega e implantação rápidas de software útil para o cliente.
+
+Os clientes podem usufruir do software mais cedo do que com um processo em cascata.
+
+Problemas
+
+O processo não é visível.
+Os gerentes precisam de entregas regulares para medir o progresso. Se os sistemas são desenvolvidos rapidamente, é custoso produzir documentos que refletem todas as versões do sistema.
+
+A estrutura do sistema tende a degradar-se com novos incrementos que são adicionados.
+
+A menos que tempo e dinheiro sejam gasto em refatoraçãopara melhorar o software, mudanças regulares tendem a corromper a estrutura do software. Incorporar novas mudanças torna-se cada vez mais difícil e caro.
+
+Componentes de Softwares que podem ser reusados
+
+Web services que são desenvolvidos de acordo com padrões de serviço e ficam disponíveis para invocação remota.
+
+Coleções de objetos que são desenvolvidas como um pacote para ser integrado com um framework de componentes tais como .NET ou J2EE.
+
+Protótipo 
+
+Um protótipo é uma versão inicial de um sistema usado para demonstrar conceitos e testar opções de projeto.
+
+Benefícios
+•	Melhora na usabilidade do sistema.
+•	Se aproxima das reais necessidades do cliente.
+•	Melhora na qualidade do projeto de software.
+•	Melhora a manutenibilidade.
+•	Reduz o esforço de desenvolvimento.
+
+ RUP
+Um processo genérico derivado do trabalho sobre UML e seu processo associado.
+Reúne aspectos dos três modelos de processos genéricos discutidos anteriormente.
+
+Normalmente descrito a partir de 3 perspectivas
+
+•	A perspectiva dinâmica que mostra as fases ao longo do tempo;
+•	Uma perspectiva estática que mostra atividades de processo;
+•	Uma perspectiva prática que sugere boas práticas.
+3.
+Surgimento dos métodos ágeis
+
+A insatisfação com o overhead envolvido nos processos de software dos anos 1980 e 1990 levou à criação dos métodos ágeis.
+•	Focado no código, ao invés de projeto.
+•	Baseiam-se em uma abordagem iterativa para o desenvolvimento de software.
+•	Destinam-se a entregar software funcionando rapidamente e evoluir rapidamente para responder às novas exigências.
+•	O objetivo dos métodos ágeis é reduzir as despesas gerais do processo de software (por exemplo, limitando documentação) e ser capaz de responder rapidamente às mudanças de requisitos, sem retrabalho excessivo.
+Agile Manifesto
+
+Indivíduos e interações mais que processos e ferramentas
+Software em funcionamento mais que documentação abrangente
+Colaboração com o cliente mais que negociação de contratos
+Responder a mudanças mais que seguir um plano
+
+Ou seja, mesmo havendo valor nos itens à direita,
+valorizamos mais os itens à esquerda.
+
+
+3Princípios dos métodos ágeis
+
+•	Evolvemento do cliente
+
+•	Entrega incremental
+
+•	Pessoas e nãoprocessos
+
+Aplicabilidade dos métodos ageis
+
+Desenvolvimento de produtos de pequeno ou médio porte para venda.
+
+Desenvolvimento de sistemas personalizados dentro de uma organização, onde há um compromisso claro do cliente para se envolver no processo de desenvolvimento e onde não há muitas regras e regulamentos externos que afetam o software.
+
+Por causa de seu foco em pequenas equipes, fortemente integradas, há problemas em escalar métodos ágeis para grandes sistemas.
+
+2 problemas com métodos ageis
+
+•	Pode ser difícil manter o interesse dos clientes que estão envolvidos no processo.
+•	Os membros da equipe podem ser inadequados para a participação intensa que caracteriza os métodos ágeis.
+Scrum
+
+SCRUM é um processo ágil para o gerenciamento e controle do desenvolvimento de produtos em ambientes que mudam rapidamente.
+
+4 Características
+
+•	Processo iterativo incremental
+•	Abordagem baseada em equipe
+•	Desenvolvimento de sistemas e produtos que mudam os requisitos com rapidez
+•	Controla o caos de interesses e necessidades conflitantes
+
+Funcionamento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Papeis
+
+Scrum Master
+•	Representa a gerência para o projeto
+•	Normalmente quem desempenha é o gerente de projetos ou o teamleader
+•	Responsável por garantir os valores e práticas do Scrum
+•	Trabalho principal é remover impedimentos
+
+
+Product Owner
+•	Age como uma só voz (em qualquer caso)
+•	Sabe o que precisa ser construído e em que seqüênciaisso deve ser feito
+•	Normalmente, um gerente de produto
+
+Processo
+
+Sprint Planning Meeting
+•	Reunião colaborativa no início de cada sprint entre o productowner, o scrummaster e o scrumteam. Dura até 8 horas e é composto por duas partes.
+Sprint
+•	Uma iteração de um mês, durante o qual é incrementado a funcionalidade do produto.
+•	Nenhuma influência externa pode interferir com a equipe durante uma sprint
+•	Cada sprint começa com a Daily Scrum Meeting
+
+Artefatos
+
+Product Backlog
+•	Requisitos de um sistema expressos em uma lista priorizada de itens
+•	É gerenciado pelo productowner
+•	Tipicamente feito em uma planilha
+•	Geralmente é criado durante a sprintplanningmeeting
+•	Pode ser alterado e re-priorizado
+•	Estimativa de itens
+•	Estabelece a velocidade da equipe (quanto de esforço a equipe pode lidar na sprint)
+
+Sprint Backlog
+•	Um subconjunto de itens do productbacklog, que definem o trabalho para a sprint
+•	É criada apenas pelos membros da equipe
+•	Cada item tem o seu próprio status
+•	Deve ser atualizado a cada dia
+•	Não há mais de 300 tarefas na lista
+•	Se uma tarefa requer mais de 16 horas, deve ser dividida
+•	Equipe pode adicionar ou subtrair os itens da lista. ProductOwner não tem permissão para fazê-lo
+
+
+XP
+
+Uma das metodologias ágeis mais utilizadas na atualidade.
+
+4 Princípios 
+
+Desenvolvida para:
+
+•	Equipes médias e pequenas (2 a 12 pessoas)
+•	Requisitos vagos e em constante evolução
+•	Possui um conjunto de valores e práticas para nortear o desenvolvimento de software
+Extreme = Boas práticas de desenvolvimento de software levadas ao extremo.
+
+Programming = Foco no código.
+
+
+
+Descrições
+
+TDD
+
+•	Teste primeiro: antes de adicionar uma funcionalidade, escrever um teste para ele!
+•	Quando a suíte de testes passa 100%, a funcionalidade é aceita.
+•	Testes Unitários: automatizam os testes das funcionalidade e são escritos pelos desenvolvedores
+
+•	Cada teste unitário normalmente testa apenas uma única ou pequeno grupo de classes
+
+•	Os testes unitários normalmente usam um framework de testes unitários, como JUnit
+
+•	Se um bug é descoberto durante o desenvolvimento, adicionar um caso de teste para se certificar de que não volte!
+
+•	Testes de Aceitação: são especificados pelo cliente para testar se o sistema como um todo está funcionando da forma especificada
+
+•	Quando todos os testes de aceitação passam a história é considerada completa
+
+•	Poderia ser um roteiro de ações de interface do usuário e os resultados esperados
+
+•	Idealmente testes de aceitação deve serautomatizados utilizando algum framework
+
+•	Programação em Pares (PairProgrammin)
+
+•	Dois programadores trabalham juntos em uma máquina
+•	O piloto digita o código, enquanto navegador analisa o que está sendo feito
+•	Alternância periódica de papéis
+
+Refatoring
+
+•	Refatorar qualquer código duplicado gerado em uma sessão de codificação
+•	Pode fazer isso com a confiança que não quebrou nada, porque você tem os testes
+
+Propriedade coletiva do código
+
+•	Nenhuma pessoa é o "dono" de um módulo
+•	Qualquer desenvolvedor pode trabalhar em qualquer parte do sistema a qualquer momento
+
+Padrões de Codificação
+
+•	Todos codificam seguindo os mesmos padrões
+•	Idealmente você não deve ser capaz de dizer, apenas olhando, quem na equipe tocou em uma parte específica do código
+
+Integração Continua
+
+•	Todas as alterações de código são integradas pelo menos diariamente.
+•	Os testes têm de executar 100%, tanto antes como após a integração.
+
+4.Requisitos
+Os requisitos são as descrições dos serviços oferecidos pelo sistema e suas restrições que são gerados durante o processo de engenharia de requisitos.
+
+A Engenharia de requisitos tem o objetivo de transparecer para os desenvolvedores, tudo que o sistema deve executar.
+
+Imprecisão
+Requisitos ambíguos podem ser interpretados de formas diferentes por desenvolvedores e usuários.
+Exemplo
+Considerando o termo ‘buscar’ no requisito acima:
+•	Intenção do usuário: buscar por um nome de paciente dentre todas as consultas de todas as clínicas.
+•	Interpretação do desenvolvedor: buscar por um nome de paciente em uma clínica individualmente. Usuário escolhe a clínica e depois busca pelo nome do paciente.
+
+Completude e consistência
+Conpletude
+•	Devem incluir descrições para todas as características desejadas.
+Consistente
+•	Não deve haver conflitos ou contradições nas descrições das características do sistema.
+Tudo isso para evitar a interpretação errada tanto do desenvolvedor, quanto do usuário.
+
+RequisitosFuncionais
+•	Apresenta os serviços que o sistema deve prover,como o sistema deve reagir diante de determinados tipos de entradas e como o sistema deve se comportar em situações particulares.
+•	Pode apresentar o que o sistema NÃO deve fazer.
+Requisitosnãofuncionais
+•	São restrições sobre os serviços oferecidos pelo sistema (ex. Restrições de tempo, de processo de desenvolvimento, padrões, etc).
+•	Normalmente se aplicam ao sistema como um todo ao invés de serviços individuais.
+
+Três principais tipos de requisitos não funcionais
+
+Requisitos do produto
+Requisitos organizacionais
+Requisitos externos
+
+Exemplo de como os requisitos não funcionais devem ser escritos
+
+ 
+
+Requisitos de usuário
+•	Focado no usuário final.
+•	Escrito em linguagem natural podendo ter diagramas dos serviços que o sistema provê, além das restrições operacionais.
+Requisito de sistema
+•	Focado na equipe de desenvolvimento.
+•	Escrito de forma estruturada contendo detalhes sobre os serviços e restrições operacionais do sistema.
+
+5.
+Objetivo
+identificar os sub-sistemasque compõem um sistema e como eles se comunicam.O resultado deste processo de criação é uma descrição da arquitetura de software.
+
+Definição de Arquitetura
+
+•	Fase inicial do processo de concepção do sistema.
+•	Representa a conexão entre especificação e de projeto de software.
+•	Muitas vezes, realizado em paralelo com atividades de especificação.
+Identifica os principais componentes do sistema e suas comunicações
+
+Vantagens de Explicitar a arquitetura de Software
+
+Comunicação com os stakeholders
+•	O documento de arquitetura pode ser usado como um base para discussão com os stakeholders.
+Análise do sistema
+•	Verifica se é possível o sistema atender os requisitos não funcionais.
+Reutilização em larga escala
+•	A arquitetura pode ser reutilizada pra outros sistemas.
+•	Podem ser desenvolvidas arquiteturas de linhas de produtos de software.
+
+Quatro Decisões Arquiteturais
+
+•	Existe uma arquitetura genérica que pode ser usada?
+•	Como o sistema será distribuído?
+•	Quais estilos de arquitetura são apropriados?
+•	Que abordagem será utilizada para estruturar o sistema?
+
+Duas características Arquiteturais
+
+Desempenho
+•	Localiza operações críticas e minimiza comunicações. 
+Segurança
+•	Usa arquitetura em camadas com itens críticos nas camadas internas.
+•	Posiciona funcionalidades críticas para a segurança em um pequeno número de sub-sistemas.
+
+Elementos do modelo arquitetural 4+1
+
+•	Uma visão lógica, que mostra as principais abstrações no sistema como objetos ou classes de objetos.
+•	Uma visão de processo,que mostra como os processos do sistema são interagem em tempo de execução.
+•	Uma visão de implementação, que mostra como o software é decomposto para o desenvolvimento.
+•	Uma visão física, que mostra o hardware do sistema e como os componentes de software são distribuídos nesses hardwares.
+•	Casos de uso ou cenários (+1)
+
+
+
+
+Padrões arquiteturais Definição
+
+Os padrões são um meio de representação, compartilhamento e reutilização de conhecimento.
+Um padrão de arquitetura é uma descrição de boas práticas de projeto, que tem sido experimentado e testado em diferentes ambientes.
+
+Padrão MVC
+
+
+
+
+
+
+
+
+
+
+
+Arquitetura de Aplicação Definição
+Uma arquitetura de aplicação genérica é uma arquitetura para um tipo de sistema de software que pode ser configurado e adaptado para criar um sistema que atenda às necessidades específicas.
+	
+Uso de Arquitetura de Aplicação
+
+•	Como ponto de partida para o projeto arquitetônico.
+•	Como uma lista de verificação de projeto.
+•	Como uma forma de organizar o trabalho da equipe de desenvolvimento.
+•	Como um meio de avaliar os componentes parareutilização.
+•	Como um vocabulário para falar sobre os tipos de aplicativos.
+
+Dois exemplos 
+
+Aplicações de processamento de dados
+•	Aplicações que processam dados em lotes sem a intervenção explícita do usuário durante o processamento.
+Aplicações de processamento de transações
+•	Aplicativos centrados nos dados que processam as solicitações do usuário e atualizam as informações em um banco de dados do sistema.
+
+6.
+
+Atividades de projeto e implementação são intercaladas.
+
+•	Projeto de software é uma atividade criativa em que você identifica os componentes de software e suas relações, com base nos requisitos do cliente.
+•	A implementação é o processo de realização do projeto como um programa.
+
+Atividades comuns nesses processos incluem:
+Definir o contexto e modos de utilização do sistema;
+•	Compreender as relações entre o software que está sendo projetado e seu ambiente externo é essencial para decidir a forma de fornecer as funcionalidades do sistema e como estruturar o sistema para se comunicar com o seu ambiente.
+
+Identificar os principais objetos do sistema;
+•	Não há 'fórmula mágica' para a identificação de objetos. Baseia-se na habilidade, experiência e conhecimento de domínio dos projetistas de sistemas.
+•	Identificação de objetos é um processo iterativo. É improvável que você obtê-lo corretamente na primeira vez.
+
+Desenvolver modelos de design;
+•	Um padrão de projeto é uma maneira de reutilizar o conhecimento abstrato sobre um problema e sua solução.
+•	Um padrão é uma descrição do problema e a essência da sua solução.
+•	Deve ser suficientemente abstrato para ser reutilizado em diferentes contextos.
+•	Descrições padrão normalmente fazem uso de características orientadas a objetos, como herança e polimorfismo.
+
+Especificar interfaces de objetos.
+•	Padrões de Projeto foram introduzidos para a comunidade OO através deGamma E., et al, Design Patterns, Addison-Wesley, 1994.
+•	Categorizaram 23 padrões em 3 tipos:
+•	Criação (5)
+•	Estrutural (7)
+•	Comportamental (11)
+
+Duas abordagens para identificação de classes de objetos
+Singleton
+•	Problema: Como pode ser construída uma classe que só pode ter uma única instância e que pode ser acessada globalmente dentro da aplicação?
+•	Contexto: Em algumas aplicações uma classe deve ter exatamente uma instância. 
+•	Forças: 
+•	Uma abordagem para tornar um objeto acessível globalmente é colocar a variável global, mas isto viola o encapsulamento.
+•	Outra abordagem é não criar uma instância de objeto em todo lugar, mas usar operações e atributos da classe (chamados `static´ em C++ e Java), mas isto limita a extensibilidade do modelo já que a redefinição polimórficadas operações da classe não é possível em todos os ambientes de desenvolvimento (por exemplo C++)
+•	Solução:
+•	Criar uma classe com uma operação de escopo de classe (ou estática, ex: Java, C++)getInstance(), que:
+•	Quando a classe é acessada pela primeira vez, a instância do objeto é criada e retornada para o cliente.
+•	Nos acessos subseqüentes de getInstance() nenhuma instância adicional é criada, mas a identidade do objeto existente é retornado.
+•	Intenção
+•	Anexa dinamicamente responsabilidades adicionais a um objeto. Provê uma alternativa flexível ao uso de herança como modo de estender funcionalidade.
+•	Motivação
+•	Algumas vezes se quer adicionar responsabilidades a um objeto, mas não à sua classe. Acontece, por exemplo, com criação de interfaces gráficas, quando se deseja acrescentar uma borda a um componente qualquer ou um scrollbara uma área de texto.
+•	Uma forma de se acrescentar responsabilidades é através de herança, mas isto torna o projeto inflexível, pois a escolha da borda é definida em tempo de compilação. Neste caso o cliente não pode controlar como, onde e quando decorar o componente com uma borda.
+•	Uma abordagem mais flexível é inserir o componente em outro objeto que adiciona a borda, um Decorator.
+
+Padrões de Projetos
+
+•	Padrões de Projeto foram introduzidos para a comunidade OO através de
+Gamma E., et al, Design Patterns, Addison-Wesley, 1994.
+•	Categorizaram 23 padrões em 3 tipos:
+•	Criação (5)
+•	Estrutural (7)
+•	Comportamental (11)
+
+Tipos de padrões de projeto (GoF)
+
+Criação
+Estrutural
+comportamental
+
+Elementos Mínimos
+•	Nome do Padrão:Deve ser facilmente lembrado, reflete o conteúdo do padrão.
+•	Problema: Uma descrição do problema que pode ser escrito em forma de pergunta.  
+•	Contexto: Descreve o contexto do problema. As circunstâncias ou pré-condições sob as quais o problema pode ocorrer.
+•	Pontos Fortes: As restrições ou características que devem ser seguidas pela solução. As forças podem interagir e ter conflitos umas com as outras.
+•	Solução: Deve ser direta e precisa. 
+
+Observer- Estrutura 
+
+ 
+
+
+
+
+•	Intenção
+•	Definir uma dependência um-para-muitos entre objetos, de maneira que quando um objeto muda o seu estado todos os seus dependentes são notificados e atualizados automaticamente.
+•	Motivação
+•	Separação das classes de apresentação das classes de aplicação (ex: visualizadores para C e Java de árvores sintáticas)
+Aplicabilidade
+
+•	Quando uma abstração tem dois aspectos, um dependente do outro. Encapsulando esses aspectos em objetos separados, permite-se variá-los e reutilizá-los independentemente.
+•	Quando uma mudança em um objeto exige mudanças em outros, e você não sabe quantos objetos necessitam ser mudados.
+7.
+
+
+
+
+8.
+C
+
+9.
+A
+
+10.
+C
+
